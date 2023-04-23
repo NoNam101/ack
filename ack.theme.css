@@ -1,3 +1,16 @@
 :root{
 --custom-theme-background: linear-gradient(127deg, rgba(0,121,255,1) 0%, rgba(30,53,255,1) 2%, rgba(54,42,194,1) 9%, rgba(77,0,172,1) 22%, rgba(101,0,160,1) 47%, rgba(125,0,145,1) 57%, rgba(152,0,120,1) 69%, rgba(195,0,84,1) 77%, rgba(255,56,45,1) 89%, rgba(255,186,0,1) 100%) !important;
+--bg-overlay-color: 0 0 0 !important;
+--bg-overlay-color-inverse: 255 255 255 !important;
+--bg-overlay-opacity-1: 0.7 !important;
+--bg-overlay-opacity-2: 0.6 !important;
+--bg-overlay-opacity-3: 0.6 !important;
+--bg-overlay-opacity-4: 0.6 !important;
+--bg-overlay-opacity-6: 0.1 !important;
+--bg-overlay-opacity-hover: 0.4 !important;
+--bg-overlay-opacity-hover-inverse: 0.08 !important;
+--bg-overlay-opacity-active: 0.2 !important;
+--bg-overlay-opacity-active-inverse: 0.1 !important;
+--bg-overlay-opacity-chat: 0.8 !important;
+--bg-overlay-opacity-app-frame: var(--bg-overlay-opacity-4) !important;
 }
